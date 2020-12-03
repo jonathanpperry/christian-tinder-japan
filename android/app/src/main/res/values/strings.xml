@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">academyGesture</string>
+    <string name="title_activity_main">academyGesture</string>
+    <string name="package_name">io.jonnyramen.jmatch</string>
+    <string name="custom_url_scheme">io.jonnyramen.jmatch</string>
+</resources>

@@ -1,7 +1,8 @@
 {
   "name": "academyGesture",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "angular"
 }
